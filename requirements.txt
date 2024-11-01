@@ -1,0 +1,10 @@
+ccxt==3.2.9
+python-binance==0.7.0
+joblib==1.2.0
+pandas==1.5.3
+requests==2.28.1
+scikit-learn==1.2.1
+xgboost==1.7.5
+tensorflow==2.13.0
+keras==2.13.0
+tabulate==0.9.0
